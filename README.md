@@ -1,29 +1,4 @@
 ## Nicole Strulavits
 ### Legajo 1076159
 ![644526_4992351738053_254339479_n](https://user-images.githubusercontent.com/31940739/78314231-b4799100-752f-11ea-9b7e-81e8fb8f7a08.jpg)
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
-
-- Elemento 1
-- Elemento 2
-- Elemento 3
-
-Este es un ejemplo de texto que da entrada a una lista numerada:
-
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
-
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
-
-- Elemento 1
-- Elemento 2
-- Elemento 3
-
-Este es un ejemplo de texto que da entrada a una lista numerada:
-
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
-
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
+Hola soy Nicole, es mi primera vez que curso la materia. Tengo 24 años y estoy muchas ganas de empezar. No suelo mirar muchas peliculas, soy de mirar series. Tambien, me gusta escuchar musica, escucho de todo un poco, aunque mis generos favoritos son jazz e indie rock,sin embargo para mi todo depende como sienta en el momento para escuchar. En mi tiempo libre suelo correr, trato de ir tres a la semana. Se programar en java, javascript, typescript y c++/c
